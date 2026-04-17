@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sayed%20Asadullah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Science%20Student%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sayed%20Asadullah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sayed+Asadullah+%F0%9F%91%8B;Passionate+Science+Student+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Data+Analyst+%F0%9F%93%8A+%7C+ML+Explorer+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%92%A1;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Sayed+Asadullah+%F0%9F%91%8B;Data+Science+Student+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Data+Analyst+%F0%9F%93%8A+%7C+ML+Explorer+%F0%9F%A4%96;Transforming+data+into+insights+%F0%9F%92%A1;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -35,7 +35,7 @@
 class SayedAsadullah:
     name       = "Sayed Asadullah Madani"
     location   = "Pakistan 🇵🇰"
-    role       = "Science Student | Data Analyst | ML Enthusiast"
+    role       = "Data Science Student | Data Analyst | ML Enthusiast"
     learning   = ["Machine Learning", "Data Science", "Control Theory"]
     looking_for = "Collaborations on Data Science & ML projects"
     contact    = "asadullahmadani330@gmail.com"
@@ -73,6 +73,15 @@ class SayedAsadullah:
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### 📊 Data Analysis
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF7F0E?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -88,32 +97,32 @@ class SayedAsadullah:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asadullahmadani330&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=C9D1D9" height="180" alt="GitHub Stats"/>
+<a href="https://github.com/asadullahmadani330">
+  <img src="https://img.shields.io/github/followers/asadullahmadani330?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahmadani330&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9" height="180" alt="Top Languages"/>
+<a href="https://github.com/asadullahmadani330?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahmadani330&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahmadani330&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<!-- Profile Summary -->
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asadullahmadani330&show_icons=true&theme=tokyonight&hide=contribs" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asadullahmadani330&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=asadullahmadani330&theme=tokyonight" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -140,13 +149,6 @@ class SayedAsadullah:
 </a>
 
 <br/><br/>
-
-<!-- Snake animation — add via GitHub Actions for live version -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadullahmadani330/asadullahmadani330/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadullahmadani330/asadullahmadani330/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asadullahmadani330/asadullahmadani330/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
