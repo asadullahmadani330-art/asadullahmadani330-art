@@ -77,21 +77,17 @@ class SayedAsadullah:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF7F0E?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ⚙️ Tools & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 </div>
 
@@ -101,292 +97,168 @@ class SayedAsadullah:
 
 <div align="center">
 
-### 🎯 Skills Proficiency - Interactive Radar Chart
+### 📈 Skills Overview
 
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; filter: drop-shadow(0 10px 30px rgba(102, 126, 234, 0.3));">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="skillGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Background circles -->
-  <circle cx="250" cy="250" r="200" fill="none" stroke="#e8e8f0" stroke-width="1" opacity="0.5"/>
-  <circle cx="250" cy="250" r="150" fill="none" stroke="#e8e8f0" stroke-width="1" opacity="0.5"/>
-  <circle cx="250" cy="250" r="100" fill="none" stroke="#e8e8f0" stroke-width="1" opacity="0.5"/>
-  <circle cx="250" cy="250" r="50" fill="none" stroke="#e8e8f0" stroke-width="1" opacity="0.5"/>
-  
-  <!-- Axes -->
-  <line x1="250" y1="50" x2="250" y2="450" stroke="#ccc" stroke-width="1"/>
-  <line x1="50" y1="250" x2="450" y2="250" stroke="#ccc" stroke-width="1"/>
-  <line x1="100" y1="100" x2="400" y2="400" stroke="#ccc" stroke-width="1"/>
-  <line x1="400" y1="100" x2="100" y2="400" stroke="#ccc" stroke-width="1"/>
-  
-  <!-- Animated skill polygon -->
-  <polygon points="250,80 337,115 372,195 339,280 250,320 161,280 128,195 163,115" 
-           fill="url(#skillGrad1)" opacity="0.7" filter="url(#glow)"
-           style="animation: pulse 3s ease-in-out infinite;"/>
-  
-  <!-- Skill labels -->
-  <text x="250" y="45" text-anchor="middle" font-size="12" font-weight="bold" fill="#667eea">Python 90%</text>
-  <text x="380" y="130" font-size="12" font-weight="bold" fill="#667eea">Data Viz 85%</text>
-  <text x="400" y="270" text-anchor="start" font-size="12" font-weight="bold" fill="#667eea">Power BI 80%</text>
-  <text x="280" y="350" font-size="12" font-weight="bold" fill="#667eea">Problem 90%</text>
-  <text x="120" y="270" text-anchor="end" font-size="12" font-weight="bold" fill="#667eea">SQL 75%</text>
-  <text x="100" y="130" font-size="12" font-weight="bold" fill="#667eea">ML 80%</text>
-  <text x="250" y="15" text-anchor="middle" font-size="12" font-weight="bold" fill="#667eea">Stats 85%</text>
-  
-  <!-- Center circle -->
-  <circle cx="250" cy="250" r="30" fill="#667eea" opacity="0.9" filter="url(#glow)"/>
-  <text x="250" y="258" text-anchor="middle" font-size="14" font-weight="bold" fill="white">85%</text>
-  
-  <style>
-    @keyframes pulse {
-      0% { transform: scale(1); opacity: 0.7; }
-      50% { opacity: 0.9; }
-      100% { transform: scale(1); opacity: 0.7; }
-    }
-  </style>
-</svg>
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| **Python Programming** | ████████████████████ | 90% |
+| **Statistical Analysis** | ██████████████████░░ | 85% |
+| **Data Visualization** | ██████████████████░░ | 85% |
+| **Problem Solving** | ████████████████████ | 90% |
+| **Machine Learning** | ████████████████░░░░ | 80% |
+| **Power BI & Excel** | ████████████████░░░░ | 80% |
+| **SQL & Databases** | ███████████████░░░░░ | 75% |
 
 ---
 
-### 📈 Skills Distribution - Animated Bar Charts
+### 🚀 Featured Projects Showcase
 
-<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; filter: drop-shadow(0 15px 40px rgba(0,0,0,0.1));">
-  <defs>
-    <linearGradient id="barGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#667eea" />
-      <stop offset="100%" style="stop-color:#764ba2" />
-    </linearGradient>
-    <linearGradient id="barGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f093fb" />
-      <stop offset="100%" style="stop-color:#f5576c" />
-    </linearGradient>
-    <linearGradient id="barGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4facfe" />
-      <stop offset="100%" style="stop-color:#00f2fe" />
-    </linearGradient>
-    <linearGradient id="barGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#43e97b" />
-      <stop offset="100%" style="stop-color:#38f9d7" />
-    </linearGradient>
-    <linearGradient id="barGrad5" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fa709a" />
-      <stop offset="100%" style="stop-color:#fee140" />
-    </linearGradient>
-    <linearGradient id="barGrad6" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#30cfd0" />
-      <stop offset="100%" style="stop-color:#330867" />
-    </linearGradient>
-    <linearGradient id="barGrad7" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#a8edea" />
-      <stop offset="100%" style="stop-color:#fed6e3" />
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  
-  <!-- Title -->
-  <text x="450" y="35" text-anchor="middle" font-size="22" font-weight="bold" fill="#333">Data Science Skills Breakdown</text>
-  
-  <!-- Skill 1: Statistical Analysis (85%) -->
-  <rect x="80" y="70" width="750" height="25" fill="#f0f0f5" rx="12"/>
-  <rect x="80" y="70" width="637.5" height="25" fill="url(#barGrad1)" rx="12" filter="url(#shadow)" style="animation: expandWidth 1.5s ease-out forwards;"/>
-  <text x="50" y="88" text-anchor="end" font-size="13" font-weight="600" fill="#333">Statistical Analysis</text>
-  <text x="850" y="88" font-size="13" font-weight="bold" fill="#667eea">85%</text>
-  
-  <!-- Skill 2: Machine Learning (80%) -->
-  <rect x="80" y="125" width="750" height="25" fill="#f0f0f5" rx="12"/>
-  <rect x="80" y="125" width="600" height="25" fill="url(#barGrad2)" rx="12" filter="url(#shadow)" style="animation: expandWidth 1.5s ease-out forwards; animation-delay: 0.15s;"/>
-  <text x="50" y="143" text-anchor="end" font-size="13" font-weight="600" fill="#333">Machine Learning</text>
-  <text x="850" y="143" font-size="13" font-weight="bold" fill="#f5576c">80%</text>
-  
-  <!-- Skill 3: Data Visualization (85%) -->
-  <rect x="80" y="180" width="750" height="25" fill="#f0f0f5" rx="12"/>
-  <rect x="80" y="180" width="637.5" height="25" fill="url(#barGrad3)" rx="12" filter="url(#shadow)" style="animation: expandWidth 1.5s ease-out forwards; animation-delay: 0.3s;"/>
-  <text x="50" y="198" text-anchor="end" font-size="13" font-weight="600" fill="#333">Data Visualization</text>
-  <text x="850" y="198" font-size="13" font-weight="bold" fill="#00f2fe">85%</text>
-  
-  <!-- Skill 4: Python (90%) -->
-  <rect x="80" y="235" width="750" height="25" fill="#f0f0f5" rx="12"/>
-  <rect x="80" y="235" width="675" height="25" fill="url(#barGrad4)" rx="12" filter="url(#shadow)" style="animation: expandWidth 1.5s ease-out forwards; animation-delay: 0.45s;"/>
-  <text x="50" y="253" text-anchor="end" font-size="13" font-weight="600" fill="#333">Python Programming</text>
-  <text x="850" y="253" font-size="13" font-weight="bold" fill="#38f9d7">90%</text>
-  
-  <!-- Skill 5: SQL (75%) -->
-  <rect x="80" y="290" width="750" height="25" fill="#f0f0f5" rx="12"/>
-  <rect x="80" y="290" width="562.5" height="25" fill="url(#barGrad5)" rx="12" filter="url(#shadow)" style="animation: expandWidth 1.5s ease-out forwards; animation-delay: 0.6s;"/>
-  <text x="50" y="308" text-anchor="end" font-size="13" font-weight="600" fill="#333">SQL & Databases</text>
-  <text x="850" y="308" font-size="13" font-weight="bold" fill="#fee140">75%</text>
-  
-  <!-- Skill 6: Power BI (80%) -->
-  <rect x="80" y="345" width="750" height="25" fill="#f0f0f5" rx="12"/>
-  <rect x="80" y="345" width="600" height="25" fill="url(#barGrad6)" rx="12" filter="url(#shadow)" style="animation: expandWidth 1.5s ease-out forwards; animation-delay: 0.75s;"/>
-  <text x="50" y="363" text-anchor="end" font-size="13" font-weight="600" fill="#333">Power BI & Excel</text>
-  <text x="850" y="363" font-size="13" font-weight="bold" fill="#30cfd0">80%</text>
-  
-  <!-- Skill 7: Problem Solving (90%) -->
-  <rect x="80" y="400" width="750" height="25" fill="#f0f0f5" rx="12"/>
-  <rect x="80" y="400" width="675" height="25" fill="url(#barGrad7)" rx="12" filter="url(#shadow)" style="animation: expandWidth 1.5s ease-out forwards; animation-delay: 0.9s;"/>
-  <text x="50" y="418" text-anchor="end" font-size="13" font-weight="600" fill="#333">Problem Solving</text>
-  <text x="850" y="418" font-size="13" font-weight="bold" fill="#a8edea">90%</text>
-  
-  <style>
-    @keyframes expandWidth {
-      from { width: 0 !important; }
-    }
-  </style>
-</svg>
+#### 🚢 Titanic Survival Classification
+**Type:** Classification Model | **Repo:** [GitHub](https://github.com/asadullahmadani330-art/Titanic-Survival-Classification)  
+**Tech Stack:** Python • Logistic Regression • Pandas • Scikit-Learn  
+**Highlights:** Data Cleaning ✓ | Feature Engineering ✓ | Model Evaluation ✓  
+**Description:** Predict Titanic passenger survival using machine learning algorithms. Exploratory data analysis, feature preprocessing, and logistic regression implementation for binary classification.
 
 ---
 
-### 🚀 Featured Projects - Animated Cards
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin: 30px auto; max-width: 900px;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 15px 40px rgba(102, 126, 234, 0.4); border: 2px solid rgba(255,255,255,0.1); animation: slideUp 0.8s ease-out; transform: translateY(0);">
-  <div style="font-size: 50px; margin-bottom: 15px; animation: bounce 2s infinite;">🎯</div>
-  <h3 style="margin: 0; font-size: 18px; font-weight: 700; margin-bottom: 10px;">Student Performance</h3>
-  <p style="margin: 0; font-size: 13px; opacity: 0.9; margin-bottom: 15px;">ML Prediction Model</p>
-  <div style="font-size: 36px; font-weight: 900; margin: 15px 0; text-shadow: 0 4px 15px rgba(0,0,0,0.3);">92%</div>
-  <p style="margin: 8px 0; font-size: 11px; opacity: 0.85; letter-spacing: 1px;">PYTHON • SCIKIT-LEARN • PANDAS</p>
-  <div style="margin-top: 15px; padding-top: 15px; border-top: 2px solid rgba(255,255,255,0.2); font-size: 12px;">
-    <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 20px; display: inline-block;">EDA ✓</span>
-    <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 20px; display: inline-block; margin-left: 5px;">Feature Eng ✓</span>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 15px 40px rgba(245, 87, 108, 0.4); border: 2px solid rgba(255,255,255,0.1); animation: slideUp 0.8s ease-out 0.1s both;">
-  <div style="font-size: 50px; margin-bottom: 15px; animation: bounce 2s infinite 0.2s;">🔐</div>
-  <h3 style="margin: 0; font-size: 18px; font-weight: 700; margin-bottom: 10px;">Fraud Detection</h3>
-  <p style="margin: 0; font-size: 13px; opacity: 0.9; margin-bottom: 15px;">Classification Algorithm</p>
-  <div style="font-size: 36px; font-weight: 900; margin: 15px 0; text-shadow: 0 4px 15px rgba(0,0,0,0.3);">87%</div>
-  <p style="margin: 8px 0; font-size: 11px; opacity: 0.85; letter-spacing: 1px;">PYTHON • ML • DATA IMBALANCING</p>
-  <div style="margin-top: 15px; padding-top: 15px; border-top: 2px solid rgba(255,255,255,0.2); font-size: 12px;">
-    <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 20px; display: inline-block;">Ensemble ✓</span>
-    <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 20px; display: inline-block; margin-left: 5px;">Validation ✓</span>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 15px 40px rgba(79, 172, 254, 0.4); border: 2px solid rgba(255,255,255,0.1); animation: slideUp 0.8s ease-out 0.2s both;">
-  <div style="font-size: 50px; margin-bottom: 15px; animation: bounce 2s infinite 0.4s;">📈</div>
-  <h3 style="margin: 0; font-size: 18px; font-weight: 700; margin-bottom: 10px;">Sales Analytics</h3>
-  <p style="margin: 0; font-size: 13px; opacity: 0.9; margin-bottom: 15px;">Real-time Dashboard</p>
-  <div style="font-size: 36px; font-weight: 900; margin: 15px 0; text-shadow: 0 4px 15px rgba(0,0,0,0.3);">100%</div>
-  <p style="margin: 8px 0; font-size: 11px; opacity: 0.85; letter-spacing: 1px;">POWER BI • EXCEL • SQL</p>
-  <div style="margin-top: 15px; padding-top: 15px; border-top: 2px solid rgba(255,255,255,0.2); font-size: 12px;">
-    <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 20px; display: inline-block;">Automation ✓</span>
-    <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 20px; display: inline-block; margin-left: 5px;">KPI ✓</span>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 30px; border-radius: 15px; color: #333; text-align: center; box-shadow: 0 15px 40px rgba(250, 112, 154, 0.4); border: 2px solid rgba(255,255,255,0.1); animation: slideUp 0.8s ease-out 0.3s both;">
-  <div style="font-size: 50px; margin-bottom: 15px; animation: bounce 2s infinite 0.6s;">🏥</div>
-  <h3 style="margin: 0; font-size: 18px; font-weight: 700; margin-bottom: 10px; color: #333;">Heart Disease</h3>
-  <p style="margin: 0; font-size: 13px; opacity: 0.8; margin-bottom: 15px;">Prediction Model</p>
-  <div style="font-size: 36px; font-weight: 900; margin: 15px 0; text-shadow: 0 4px 15px rgba(0,0,0,0.2); color: #333;">91%</div>
-  <p style="margin: 8px 0; font-size: 11px; opacity: 0.8; letter-spacing: 1px;">PYTHON • HEALTHCARE • ANALYTICS</p>
-  <div style="margin-top: 15px; padding-top: 15px; border-top: 2px solid rgba(0,0,0,0.1); font-size: 12px;">
-    <span style="background: rgba(0,0,0,0.1); padding: 5px 10px; border-radius: 20px; display: inline-block;">HIPAA ✓</span>
-    <span style="background: rgba(0,0,0,0.1); padding: 5px 10px; border-radius: 20px; display: inline-block; margin-left: 5px;">Security ✓</span>
-  </div>
-</div>
-
-</div>
-
-<style>
-  @keyframes slideUp {
-    from {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-  }
-</style>
+#### 📈 Stock Price Prediction
+**Type:** Time Series Forecasting | **Repo:** [GitHub](https://github.com/asadullahmadani330-art/Stock-Price-Prediction)  
+**Tech Stack:** Python • Data Analysis • Statistical Modeling  
+**Highlights:** Time Series Analysis ✓ | Forecasting Models ✓ | Data Visualization ✓  
+**Description:** Build predictive models to forecast stock prices using historical data. Includes trend analysis, technical indicators, and machine learning approaches for financial prediction.
 
 ---
 
-### 📊 Key Performance Indicators
+#### 👥 Customer Segmentation
+**Type:** Clustering Analysis | **Repo:** [GitHub](https://github.com/asadullahmadani330-art/Customer-Segmentation)  
+**Tech Stack:** Python • KMeans Clustering • Data Analytics  
+**Highlights:** KMeans Algorithm ✓ | Cluster Analysis ✓ | Business Insights ✓  
+**Description:** Customer segmentation project using KMeans clustering. Identifies customer groups based on purchasing behavior and demographics for targeted marketing strategies.
 
-<svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
-  <defs>
-    <linearGradient id="kpi1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="kpi2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="kpi3" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="kpi4" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#43e97b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#38f9d7;stop-opacity:1" />
-    </linearGradient>
-    <filter id="kpiGlow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <!-- KPI 1: Projects -->
-  <rect x="50" y="30" width="200" height="240" fill="#f8f9fd" rx="20" stroke="#e0e0e8" stroke-width="2"/>
-  <rect x="50" y="30" width="200" height="120" fill="url(#kpi1)" rx="20" filter="url(#kpiGlow)" style="animation: fillUp 2s ease-out forwards;"/>
-  <text x="150" y="120" text-anchor="middle" font-size="56" font-weight="900" fill="white">4+</text>
-  <text x="150" y="220" text-anchor="middle" font-size="16" font-weight="700" fill="#667eea">Projects</text>
-  <text x="150" y="245" text-anchor="middle" font-size="12" fill="#999">Completed</text>
-  
-  <!-- KPI 2: Accuracy -->
-  <rect x="300" y="30" width="200" height="240" fill="#f8f9fd" rx="20" stroke="#e0e0e8" stroke-width="2"/>
-  <rect x="300" y="30" width="200" height="158" fill="url(#kpi2)" rx="20" filter="url(#kpiGlow)" style="animation: fillUp 2s ease-out forwards; animation-delay: 0.3s;"/>
-  <text x="400" y="120" text-anchor="middle" font-size="56" font-weight="900" fill="white">88%</text>
-  <text x="400" y="220" text-anchor="middle" font-size="16" font-weight="700" fill="#f5576c">Accuracy</text>
-  <text x="400" y="245" text-anchor="middle" font-size="12" fill="#999">Avg Achieved</text>
-  
-  <!-- KPI 3: Languages -->
-  <rect x="550" y="30" width="200" height="240" fill="#f8f9fd" rx="20" stroke="#e0e0e8" stroke-width="2"/>
-  <rect x="550" y="30" width="200" height="144" fill="url(#kpi3)" rx="20" filter="url(#kpiGlow)" style="animation: fillUp 2s ease-out forwards; animation-delay: 0.6s;"/>
-  <text x="650" y="120" text-anchor="middle" font-size="56" font-weight="900" fill="white">5+</text>
-  <text x="650" y="220" text-anchor="middle" font-size="16" font-weight="700" fill="#00f2fe">Languages</text>
-  <text x="650" y="245" text-anchor="middle" font-size="12" fill="#999">Proficient</text>
-  
-  <!-- KPI 4: Tools -->
-  <rect x="800" y="30" width="200" height="240" fill="#f8f9fd" rx="20" stroke="#e0e0e8" stroke-width="2"/>
-  <rect x="800" y="30" width="200" height="158" fill="url(#kpi4)" rx="20" filter="url(#kpiGlow)" style="animation: fillUp 2s ease-out forwards; animation-delay: 0.9s;"/>
-  <text x="900" y="120" text-anchor="middle" font-size="56" font-weight="900" fill="white">8+</text>
-  <text x="900" y="220" text-anchor="middle" font-size="16" font-weight="700" fill="#38f9d7">Tools</text>
-  <text x="900" y="245" text-anchor="middle" font-size="12" fill="#999">Mastered</text>
-  
-  <style>
-    @keyframes fillUp {
-      from { height: 0; }
-    }
-  </style>
-</svg>
+---
+
+#### 🎬 Movie Rating Prediction
+**Type:** Prediction Model | **Repo:** [GitHub](https://github.com/asadullahmadani330-art/Movie-Rating-Prediction)  
+**Tech Stack:** Python • Regression Analysis • Data Mining  
+**Highlights:** Feature Engineering ✓ | Regression Models ✓ | Performance Evaluation ✓  
+**Description:** Predict movie ratings using machine learning. Analyzes movie features, reviews, and metadata to build accurate rating prediction models for recommendation systems.
+
+---
+
+### 📊 Key Performance Metrics
+
+```
+Projects Completed .............. 4+
+Average Model Accuracy ........... 88%
+Programming Languages ............ 5+
+Data Analysis Tools .............. 8+
+Lines of Code Written ........... 2000+
+ML Models Developed .............. 3+
+```
+
+---
+
+### 🎓 Learning Journey
+
+**Year 1: Foundations** ✓
+- ✅ Python Fundamentals (Basics to Advanced)
+- ✅ Data Structures & Algorithms
+- ✅ SQL & Database Design
+- ✅ Statistics & Probability
+
+**Year 2: Core Competencies** ✓
+- ✅ Machine Learning Algorithms
+- ✅ Data Analysis & Visualization
+- ✅ Business Intelligence Tools
+- ✅ Real-world Projects & Deployments
+
+**Current: Specialization Phase** 🔄
+- 🔄 Advanced Deep Learning Techniques
+- 🔄 Cloud Platforms (AWS/GCP)
+- 🔄 AI/NLP Applications
+- 🔄 Production ML Systems
+
+---
+
+### 🏆 Certifications (Planned)
+
+- 📜 Google Data Analytics Professional Certificate *(Expected:  2026)*
+- 📜 Microsoft Certified: Data Analyst Associate *(Expected:  2026)*
+- 📜 Introduction to Data Science with Python | IBM *(Expected: 2025)*
+- 📜 Advanced SQL for Business Analytics | DataCamp *(Expected:  2025)*
+- 📜 Python for Data Analysis | Udemy *(In Progress)*
+
+</div>
+
+---
+
+## 📊 Animated Performance Dashboard
+
+<div align="center">
+
+### 🎬 Working with Data
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" alt="Data Analysis"/>
+
+### 🤖 Building ML Models
+
+<img src="https://media.giphy.com/media/QTfYxZA0bI3173wE99/giphy.gif" width="400" alt="Machine Learning"/>
+
+### 💻 Coding & Development
+
+<img src="https://media.giphy.com/media/SvokzUsesR7QUarp2o/giphy.gif" width="400" alt="Development"/>
+
+---
+
+## 💡 Data Transformation Pipeline
+
+<div align="center">
+
+```
+📊 Raw Data → 🔄 Processing → 📈 Visualization → 🎯 Insights
+     ↓              ↓                ↓                ↓
+  Excel/CSV    Pandas/SQL      Power BI/Matplotlib  Decision Making
+```
+
+### Machine Learning Workflow
+
+```
+🎯 Problem Definition → 📊 Data Collection → 🔧 Feature Engineering
+           ↓                      ↓                      ↓
+    Understanding         Exploration              Selection
+    
+    ↓
+    
+🤖 Model Training → ✅ Validation → 📊 Evaluation → 🚀 Deployment
+        ↓                 ↓              ↓                ↓
+    Algorithms      Cross-Val        Metrics          Production
+```
+
+---
+
+## 📈 Analytics Dashboard
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; text-align: center;">
+  <h4 style="margin: 0;">📊 Accuracy</h4>
+  <div style="font-size: 40px; font-weight: bold; margin: 10px 0;">88%</div>
+  <p style="margin: 0; font-size: 11px;">Average Performance</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; color: white; text-align: center;">
+  <h4 style="margin: 0;">💻 Code</h4>
+  <div style="font-size: 40px; font-weight: bold; margin: 10px 0;">10K+</div>
+  <p style="margin: 0; font-size: 11px;">Lines Written</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; color: white; text-align: center;">
+  <h4 style="margin: 0;">🎯 Impact</h4>
+  <div style="font-size: 40px; font-weight: bold; margin: 10px 0;">40%</div>
+  <p style="margin: 0; font-size: 11px;">Efficiency Gained</p>
+</div>
+
+</div>
 
 </div>
 
@@ -397,22 +269,29 @@ class SayedAsadullah:
 <div align="center">
 
 <a href="https://linkedin.com/in/sayed-asadullah-madani-098155267">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:asadullahmadani330@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://github.com/asadullahmadani330-art">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://wa.me/923091902628">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <br/><br/>
+
+### 📌 Latest Activity
+
+- 🚀 Building ML projects on GitHub
+- 💻 Contributing to Data Science community
+- 📚 Learning advanced ML techniques
+- 🔗 Open for collaborations & internships
 
 </div>
 
